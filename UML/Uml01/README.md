@@ -1,10 +1,12 @@
 #Exercicio de UML
 
-Deseja-se construir um sistema para manter um registro de artistas musicais e seus álbuns. Cada álbum possui várias músicas, as quais poderão ser consultadas pelo sistema. O sistema também deve permitir a busca de artistas por nome ou nacionalidade. O sistema também deve ser capaz de exibir um relatório dos álbuns de um artista, o qual pode ser ordenado por nome, ano, ou duração total do álbum. Um álbum pode ter a participação de vários artistas, sem distinção. Já a música pode possuir um ou mais autores e intérpretes (todos considerados artistas). 
+Deseja-se construir um sistema para manter um registro de artistas musicais e seus Ã¡lbuns. Cada Ã¡lbum possui vÃ¡rias mÃºsicas, as quais poderÃ£o ser consultadas pelo sistema. O sistema tambÃ©m deve permitir a busca de artistas por nome ou nacionalidade. O sistema tambÃ©m deve ser capaz de exibir um relatÃ³rio dos Ã¡lbuns de um artista, o qual pode ser ordenado por nome, ano, ou duraÃ§Ã£o total do Ã¡lbum. Um Ã¡lbum pode ter a participaÃ§Ã£o de vÃ¡rios artistas, sem distinÃ§Ã£o. JÃ¡ a mÃºsica pode possuir um ou mais autores e intÃ©rpretes (todos considerados artistas). 
 
-###Instância mínima: 2 artistas, 3 álbuns, 4 músicas
+InstÃ¢ncia mÃ­nima: 2 artistas, 3 Ã¡lbuns, 4 mÃºsicas
 
 O exercicio foi resolvido da seguinte forma: 
+
+![UML](https://github.com/HenriqueLimaAlves/EstudoEmJava/blob/master/UML/Uml01/ExercicioUML.jpg )
 
 
 
