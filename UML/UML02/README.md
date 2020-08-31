@@ -1,4 +1,7 @@
-# ExercÌcio de UML
-Deseja-se construir um sistema para gerenciar as informaÁıes de campeonatos de handebol, que ocorrem todo ano. Deseja-se saber nome, data de nascimento, gÍnero e altura dos jogadores de cada time, bem como qual deles È o capit„o de cada time. Cada partida do campeonato ocorre em um est·dio, que possui nome e endereÁo. Cada time possui seu est·dio-sede e, assim, cada partida possui um time mandante (anfitri„o) e o time visitante. O sistema deve ser capaz de listar as partidas j· ocorridas e n„o ocorridas de um campeonato. O sistema deve tambÈm ser capaz de listar a tabela do campeonato, ordenando os times por classificaÁ„o, que È calculada em primeiro lugar por saldo de vitÛrias e em segundo lugar por saldo de gols.
- Inst‚ncia mÌnima: 1 campeonato, 2 partidas, 2 times, 2 jogadores em cada time
-## O exercÌcio foi resolvido da seguinte forma:
+# Exerc√≠cio de UML
+Deseja-se construir um sistema para gerenciar as informa√ß√µes de campeonatos de futebol, que ocorrem todo ano. Deseja-se saber nome, data de nascimento, g√™nero e altura dos jogadores de cada time, bem como qual deles √© o capit√£o de cada time. Cada partida do campeonato ocorre em um est√°dio, que possui nome e endere√ßo. Cada time possui seu est√°dio-sede e, assim, cada partida possui um time mandante (anfitri√£o) e o time visitante. O sistema deve ser capaz de listar as partidas j√° ocorridas e n√£o ocorridas de um campeonato. O sistema deve tamb√©m ser capaz de listar a tabela do campeonato, ordenando os times por classifica√ß√£o, que √© calculada em primeiro lugar por saldo de vit√≥rias e em segundo lugar por saldo de gols.
+
+Inst√¢ncia m√≠nima: 1 campeonato, 2 partidas, 2 times, 2 jogadores em cada time
+
+## O exerc√≠cio foi resolvido da seguinte forma:
+![UML](https://github.com/HenriqueLimaAlves/EstudoEmJava/blob/master/UML/UML02/UML.jpg )

@@ -6,7 +6,7 @@ Instância mínima: 2 artistas, 3 álbuns, 4 músicas
 
 ## O exercicio foi resolvido da seguinte forma: 
 
-![UML](https://github.com/HenriqueLimaAlves/EstudoEmJava/blob/master/UML/Uml01/ExercicioUML.jpg )
+![UML](https://github.com/HenriqueLimaAlves/EstudoEmJava/blob/master/UML/UML01/ExercicioUML.jpg )
 
 
 
